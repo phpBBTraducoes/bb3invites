@@ -46,7 +46,7 @@ $lang = array_merge($lang, array(
 	'BB3INVITES_TORRENTS' => 'torrents',
 	'BB3INVITES_UPLOAD' => 'Gb de upload',
 
-	'BB3INVITES_DELINVITES'				=> 'Deletar convites',
+	'BB3INVITES_DELINVITES'				=> 'Excluir convites',
 	'BB3INVITES_DELINVITES_EXPLAIN'		=> '',
 	'BB3INVITES_LOG_INVITES'				=> 'Escrever logs de convites',
 	'BB3INVITES_LOG_INVITES_EXPLAIN'		=> 'Escreva todas as informações sobre convites para um log',
